@@ -71,5 +71,5 @@ This means the workers earned a total of 90 units in profit.
 
 Author
 
-Andressa Von Ahnt – M1 Assignment
+Andressa Von Ahnt – M1 
 
